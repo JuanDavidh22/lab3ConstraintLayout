@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="agregarProducto">Agregar producto</string>
+
+    <string name="email">Email:</string>
+    <string name="escribirEmail">Enter email address</string>
+
+    <string name="nombreproducto">Nombre del producto:</string>
+    <string name="escribirNombreProducto">Escribe el nombre del producto</string>
+
+    <string name="escribirPrecio">Escribe el precio del producto</string>
+    <string name="precio">Precio del producto:</string>
+
+    <string name="escribirDespricion">Escribe la descripcion del producto</string>
+    <string name="descripcion">Descripcion:</string>
+
+    <string name="send">Send</string>
+</resources>
